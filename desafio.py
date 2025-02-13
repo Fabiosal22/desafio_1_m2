@@ -86,5 +86,5 @@ contagem = (f"O nome {digite_nome} tem {len(digite_nome)} letras.")
 print(contagem)
 
 
-# Mensagem Final
-print("🔹 Você restaurou a escola Vai na Web! 🎉 Agora, você se tornou um(a) verdadeiro(a) programador(a) FullStack lendário(a)!!! 🚀")
+# Mensagem Final!
+print("🔹Você restaurou a escola Vai na Web! 🎉 Agora, você se tornou um(a) verdadeiro(a) programador(a) FullStack lendário(a)!!! 🚀")
